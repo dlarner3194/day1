@@ -1,0 +1,154 @@
+.box1{
+	background: #2B3E4D;
+	height: 50px;
+}
+body{
+	margin: 0;
+}
+.box2{
+	background: #0091CB;
+	height: 330px;
+	margin-bottom: 15px;
+}
+.home{
+	background: #0091CB;
+	padding-top: 10px;
+	border: 3px solid white;
+	width: 308px;
+	height: 35px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
+.inner-box-1{
+	background: #BAE1F3;
+	height: 45px;
+	width: 314px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+}
+.inner-box-2{
+	background: white;
+	height: 30px;
+	width: 170px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	margin-bottom: 50px;
+}
+.box3{
+	background: white;
+	height: 115px;
+}
+.inner-box-3{
+	background: #32495A;
+	height: 45px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.box4{
+	background: #0091CB;
+	height: 140px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.box5{
+	background: #0091CB;
+	height: 140px;
+	margin-left: 15px;
+	margin-right: 15px;
+	border-top: 25px solid white;
+}
+.box6{
+	background: #0091CB;
+	height: 140px;
+	margin-left: 15px;
+	margin-right: 15px;
+	border-top: 25px solid white;
+}
+.box7{
+	background: #0091CB;
+	height: 140px;
+	margin-left: 15px;
+	margin-right: 15px;
+	border-top: 25px solid white;
+	border-bottom: 25px solid white;
+}
+.box8{
+	background: #32495A;
+	height: 430px;
+}
+.inner-box-4{
+	background: #8E9DA9;
+	height: 375px;
+	margin-top: 10px;
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-bottom: 10px;
+}
+.box9{
+	background: white;
+	height: 120px;
+}
+.inner-box-5{
+	background: #32495A;
+	height: 45px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.box10{
+	background: #7D8C8D;
+	height: 375px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+.box11{
+	background: white;
+	height: 100px;
+}
+.inner-box-6{
+	background: #32495A;
+	height: 22px;
+	margin-top: 45px;
+	margin-bottom: 35px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+.box12{
+	background: #7C8C8D;
+	height: 110px;
+	margin-top: 25px;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+.box13{
+	background: white;
+	height: 100px;
+}
+.inner-box-7{
+	background: #32495A;
+	height: 22px;
+	margin-top: 25px;
+	margin-bottom: 35px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+.box14{
+	background: #7C8C8D;
+	height: 110px;
+	margin-top: 10px;
+	margin-right: 25px;
+	margin-left: 25px;
+	margin-bottom: 35px;
+}
+.box15{
+	background: black;
+	height: 70px;
+}
+.inner-box-8{
+	background: #7D8B8C;
+	height: 35px;
+	margin-left: 10px;
+	margin-right: 10px;
+}

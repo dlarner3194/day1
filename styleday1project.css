@@ -1,0 +1,55 @@
+.indexpage{
+	background: red;
+	height: 385px;
+}
+.header{
+	background: #800000;
+	height: 64px;
+}
+.box2{
+	background: #800000;
+	height: 225px;
+	margin-top: 64px;
+	margin-bottom: 32px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.box3{
+	background: #800000;
+	height: 225px;
+	margin-top: 64px;
+	margin-bottom: 32px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.box4{
+	background: #800000;
+	height: 225px;
+	margin-top: 64px;
+	margin-bottom: 32px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.big-black-box{
+	background: black;
+	height: 917px;
+}
+.red-box{
+	background: red;
+	height: 412px;
+	padding-top: 140px;
+	padding-right: 32px;
+	padding-left: 32px;
+	padding-bottom: 70px;
+}
+.small-box{
+	background: #ff9999;
+	height: 412px;
+}
+.space-box{
+	background: black;
+	height: 204px;
+}
+body{
+	margin: 0;
+}

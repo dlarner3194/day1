@@ -1,0 +1,22 @@
+div {
+	background: red;
+	height: 200px;
+	overflow: scroll;
+}
+.navigation {
+	background: blue;
+}
+.home{
+	background: green;
+	height: 100px;
+	width: 75px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 30px;
+}
+
+body{
+	margin: 0;
+}
+
